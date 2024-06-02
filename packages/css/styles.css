@@ -517,46 +517,38 @@ img {
   background-color: var(--first-color);
 }
 
-.skills__html {
-  width: 90%;
-}
-
-.skills__css {
-  width: 80%;
-}
-
-.skills__js {
-  width: 60%;
-}
-
-.skills__wordpress {
-  width: 70%;
-}
-
-.skills__python {
+.skills__java {
   width: 100%;
 }
 
-.skills__tab {
-  width: 97%;
+.skills__js {
+  width: 100%;
+}
+
+.skills__nodejs {
+  width: 90%;
+}
+
+.skills__HTML {
+  width: 90%;
+}
+
+.skills__CSS {
+  width: 85%;
+}
+
+.skills__bootstrap {
+  width: 90%;
 }
 
 .skills__sql {
   width: 90%;
 }
 
-.skills__google {
+.skills__mongodb {
   width: 90%;
 }
 
-
-.skills__counter {
-  width: 80%;
-}
-
-.skills__office {
-  width: 90%;
-}
 
 .skills__close .skills__list {
   height: 0;
