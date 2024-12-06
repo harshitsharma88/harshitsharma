@@ -526,7 +526,11 @@ img {
 }
 
 .skills__nodejs {
-  width: 90%;
+  width: 100%;
+}
+
+.skills__flutter {
+  width: 70%;
 }
 
 .skills__HTML {
@@ -546,7 +550,7 @@ img {
 }
 
 .skills__mongodb {
-  width: 90%;
+  width: 80%;
 }
 
 
